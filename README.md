@@ -28,7 +28,7 @@ Git
 ### Installation<a name="installation"></a>
 Clone the repository:
 
-git clone https://github.com/markjosephtx.git
+git clone [https://github.com/markjosephtx.git](https://github.com/markjosephtx/markjosephtx.com-Wordpress-Portfolio-.git)
 Upload the files to your WordPress hosting server.
 
 Customize the website content using the WordPress admin panel and Elementor.
