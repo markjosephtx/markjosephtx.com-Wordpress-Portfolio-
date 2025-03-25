@@ -1,3 +1,4 @@
+![portfolio preview](http://markjosephtx.com/wp-content/uploads/2025/03/markjosephtx.com_.png)
 # ***My Personal Portfolio***
 Welcome to my personal portfolio website! This site is built using WordPress with Elementor, and it's hosted on WP Engine.
 
